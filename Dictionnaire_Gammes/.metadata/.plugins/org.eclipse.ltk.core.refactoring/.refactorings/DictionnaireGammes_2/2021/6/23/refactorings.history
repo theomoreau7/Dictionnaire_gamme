@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;fr.theomoreau.modele&apos; to &apos;modele&apos;&#x0D;&#x0A;- Original project: &apos;DictionnaireGammes_2&apos;&#x0D;&#x0A;- Original element: &apos;DictionnaireGammes_2/src/fr.theomoreau.modele&apos;&#x0D;&#x0A;- Renamed element: &apos;DictionnaireGammes_2/src/modele&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;fr.theomoreau.modele&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;fr.theomoreau.modele" name="modele" qualified="false" references="true" stamp="1623056751303" textual="false" version="1.0"/>
+</session>
